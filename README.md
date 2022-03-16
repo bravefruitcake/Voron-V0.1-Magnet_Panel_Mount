@@ -26,3 +26,6 @@ Optional hardware:
 32x m3x8
 
 32x m3 nut
+![magnet panel ss1](https://user-images.githubusercontent.com/100677940/158706302-d8bab544-1a13-40eb-8643-e477718b5bb9.png)
+![magnet panel ss3](https://user-images.githubusercontent.com/100677940/158706314-2304072e-3ac1-4b81-a7ee-dc183906acd3.png)
+![magnet panel ss2](https://user-images.githubusercontent.com/100677940/158706321-f9574a17-27a9-4d34-99bc-5e6e578d4f98.png)
